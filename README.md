@@ -1,2 +1,2 @@
 # Entropy, Gini & I.G (Pandas)
-A Pandas implementation of Entropy, Gini and Information Gain(I.G).
+A Pandas implementation of IUFS feature extractor technique based on Entropy, Gini and Information Gain(I.G).
